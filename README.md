@@ -6,8 +6,8 @@ Dieses Repo enthält die fantastische Geschichte von Jeremy und seinem Lebenswer
 
 Hier geht es zu den Kapiteln:
 
-// TODO
-[Kapitel 1 - Steering Commitee](/src/Kapitel 1 - Steering Commitee.md)
+// TODO  
+[Kapitel 1 - Steering Commitee](src/Kapitel%201%20-%20Steering%20Commitee.md)
 
 **Disclaimer:** Dies ist eine rein fiktive, satirische Geschichte. Ähnlichkeiten zu real existierenden Personen, Projekten oder Gottheiten sind rein zufällig.
 
