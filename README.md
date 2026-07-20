@@ -11,4 +11,4 @@ Hier geht es zu den Kapiteln:
 
 **Disclaimer:** Dies ist eine rein fiktive, satirische Geschichte. Ähnlichkeiten zu real existierenden Personen, Projekten oder Gottheiten sind rein zufällig.
 
-© Markus Forster, 2026
+© Markus Forster, 2026. Alle Rechte vorbehalten.
