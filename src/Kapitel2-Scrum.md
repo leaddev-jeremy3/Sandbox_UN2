@@ -132,4 +132,4 @@ Das schrie förmlich nach Vetternwirtschaft, war es doch Ray, der die Aufgabe st
 
 Jeremy raffte sich auf. *Ich muss mit ihm reden, es ist einfach zu wichtig*. Mit wackelnden Beinen schleppte er sich zum Lift, drückte Charly gedankenverloren die Münzen in die Hand und murmelte: „Vierzehntes Untergeschoss.“
 
-Fortsetzung folgt?
+**Fortsetzung folgt?**
