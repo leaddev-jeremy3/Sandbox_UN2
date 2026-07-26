@@ -1,4 +1,4 @@
-# Steering Commitee
+# Kapitel 1 - Steering Commitee
 
 
 Nervös stieg Jeremy von einem Fuß auf den anderen. Da stand er, ein einfacher Lead Developer, und wurde von der Projektleitung zum Steering Committee geschickt, um sein Projekt zu verteidigen. Alle waren sie da – Sales, Marketing, Finance, HR und sogar der CEO, Orin, höchstpersönlich.
@@ -166,4 +166,4 @@ Drei zu drei stand es nun. Der letzte Zettel rutschte aus der Tasse in Friedas F
 
 *Bitte Gott, das darf nicht das Ende sein.*
 
-**Fortsetzung folgt?**
+**Fortsetzung:** [Kapitel 2 - Scrum](/Sandbox_UN2/src/Kapitel2-Scrum.md)
