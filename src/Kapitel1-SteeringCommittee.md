@@ -166,4 +166,4 @@ Drei zu drei stand es nun. Der letzte Zettel rutschte aus der Tasse in Friedas F
 
 *Bitte Gott, das darf nicht das Ende sein.*
 
-**Fortsetzung:** [Kapitel 2 - Scrum](/Sandbox_UN2/src/Kapitel2-Scrum.md)
+**Fortsetzung:** [Kapitel 2 - Scrum](/src/Kapitel2-Scrum.md)
