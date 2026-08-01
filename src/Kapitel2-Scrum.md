@@ -34,9 +34,7 @@ Mit engelsgleichen Augen blickte ihn Gaby an. „Huch? Was ist passiert?“
 
 Freundlich klopfte ihm Gaby auf die Schulter. „Ach, das wird schon, da habe ich auch gute Nachrichten für dich! Nach einer Abstimmung im Team haben wir uns darauf geeinigt, die Sprintdauer zu verlängern. Bei zwei Wochen ist der Overhead viel zu groß, vor allem neben dem Ticketgeschäft.“
 
-„Das trifft sich ja super! Also normalerweise bin ich kein Fan davon, aber dadurch haben wir noch etwas mehr Zeit.
-
-Auf was habt ihr es verlängert? 4 Wochen?“
+„Das trifft sich ja super! Also normalerweise bin ich kein Fan davon, aber dadurch haben wir noch etwas mehr Zeit. Auf was habt ihr es verlängert? 4 Wochen?“
 
 „Ähm, nicht ganz, doch etwas länger…“
 
@@ -76,7 +74,7 @@ Leicht besorgt zog Gaby die Augenbrauen nach oben. „Ach, das… erklärt sich 
 
 Freundlich lächelnd drückte ihm Gaby einige Münzen in die Hand. „Na klar, ich bin doch dafür da, dass es euch allen gut geht!“
 
-Grummelnd zog Jeremy von dannen, mit dem Board als Ziel. Ein ungutes Gefühl machte sich in seiner Magengegend breit, aber er konnte den Finger nicht genau darauf legen, woran es lag. Dass ein reales Board durchaus seine Vorteile gegenüber einer digitalen Lösung hatte, sah Jeremy ein. Das befriedigende Gefühl, einen Zettel zu nehmen und von einer Wand zur anderen zu bringen, hatte schon was. Aber wieso haben wir das Board nicht einfach in unserem Büro, wie früher?
+Grummelnd zog Jeremy von dannen, mit dem Board als Ziel. Ein ungutes Gefühl machte sich in seiner Magengegend breit, aber er konnte den Finger nicht genau darauf legen, woran es lag. Dass ein reales Board durchaus seine Vorteile gegenüber einer digitalen Lösung hatte, sah Jeremy ein. Das befriedigende Gefühl, einen Zettel zu nehmen und von einer Wand zur anderen zu bringen, hatte schon was. *Aber wieso haben wir das Board nicht einfach in unserem Büro, wie früher?*
 
 Als sich schließlich die Lifttür öffnete, erklärte es sich tatsächlich von selbst. Und auch die Frage, wo genau in dem Stockwerk sich das Board befand, war obsolet. Offenbar hatte man im gesamten Stockwerk alle Zwischenwände entfernt, wohl um das Ganze einfach zu halten.
 
@@ -92,7 +90,7 @@ Jeremy schnaufte und machte sich auf den Weg. Bis er die Wand erreichte, dauerte
 
 „Bugfixing Flugfähigkeit Huhn“. *Haben wir das immer noch nicht behoben?*
 
-Seufzend ging er weiter. Ich bin hier wohl in der Tier-Abteilung gelandet. Pflichtbewusst las er jede Story, hunderte, tausende kleiner Zettel. Aber auch mehrere Stunden später hatte er keine einzige Story aus dem Energiewende Feature entdecken.
+Seufzend ging er weiter. *Ich bin hier wohl in der Tier-Abteilung gelandet.* Pflichtbewusst las er jede Story, hunderte, tausende kleiner Zettel. Aber auch mehrere Stunden später hatte er keine einzige Story aus dem Energiewende Feature entdecken.
 
 Schließlich hörte er neben sich ein Krächzen. „Wasser“. Er drehte sich um und sah Mike, seinen Stellvertreter und besten Entwickler, der in Fötushaltung am Boden lag. Zum Glück hatte er vorgesorgt und eine kleine Flasche dabei, die er ihm reichte. Nur zur Sicherheit, falls Harry mal ernst macht.
 
