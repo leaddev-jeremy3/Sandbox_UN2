@@ -96,4 +96,5 @@ Vorsichtig drehte er sich um. „Ja?“
 
 Der Entwickler setzte ein freundliches Grinsen auf. „Immer wieder gern, Jeremy.“
 
-**Fortsetzung folgt!**
+[Kapitel 4 - Sales](./Kapitel4-Sales.md)
+
