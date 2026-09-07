@@ -80,4 +80,4 @@ Jeremy wurde hellhörig. „Und was für eine Sache ist das, Luki?“
 
 Ratlos blickte ihm Jeremy hinterher. Er nahm einen letzten Bissen vom Apfel, doch leider brachte er keine weitere Erkenntnis. Auch Iris verabschiedete sich von ihm, und nun stand er alleine in der Küche und fragte sich, was er wohl tun solle. *Vielleicht schau ich doch die 10 Gebote Methode an?*
 
-**Fortsetzung folgt!**
+[Kapitel 5 - Infrastruktur](./Kapitel5-Infrastruktur.md)

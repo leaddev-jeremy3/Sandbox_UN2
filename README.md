@@ -8,7 +8,8 @@ Hier geht es zu den Kapiteln:
 [Kapitel 2 - Scrum](./src/Kapitel2-Scrum.md)  
 [Kapitel 3 - Coding Guidelines](./src/Kapitel3-CodingGuidelines.md)  
 [Kapitel 4 - Sales](./src/Kapitel4-Sales.md)  
-`TODO: Kapitel 5 - Infrastruktur (ca. 06.09.)`
+[Kapitel 5 - Infrastruktur](./src/Kapitel5-Infrastruktur.md)  
+`TODO: Kapitel 6 -TBD (ca. 21.09.)`
 
 **Disclaimer:** Dies ist eine rein fiktive, satirische Geschichte. Ähnlichkeiten zu real existierenden Personen, Projekten oder Gottheiten sind rein zufällig.
 
