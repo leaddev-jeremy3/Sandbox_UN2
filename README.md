@@ -9,7 +9,7 @@ Hier geht es zu den Kapiteln:
 [Kapitel 3 - Coding Guidelines](./src/Kapitel3-CodingGuidelines.md)  
 [Kapitel 4 - Sales](./src/Kapitel4-Sales.md)  
 [Kapitel 5 - Infrastruktur](./src/Kapitel5-Infrastruktur.md)  
-`TODO: Kapitel 6 -TBD (ca. 21.09.)`
+`TODO: Kapitel 6 -TBD (ca. 04.10.)` --> Falls ihr das hier ließt, entschuldigt bitte die Verzögerung! Ich stecke gerade bei der Überarbeitung meines Romans, und will mich darauf konzentrieren. Aber mit Jeremy wird es sicher weitergehen :)
 
 **Disclaimer:** Dies ist eine rein fiktive, satirische Geschichte. Ähnlichkeiten zu real existierenden Personen, Projekten oder Gottheiten sind rein zufällig.
 
