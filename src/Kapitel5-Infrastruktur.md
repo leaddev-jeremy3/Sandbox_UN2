@@ -98,4 +98,4 @@ Gekonnt tauschte Jeremy sie aus, sprach aber weiter. „Es geht um das Geschwind
 
 „Danke, Betlas, ich melde mich!“, rief Jeremy, während er in Windeseile zurück ins Büro eilte. *Dann mach ich doch lieber bei der `get_10_gebote` Methode weiter.*
 
-**Fortsetzung folgt!**
+[Kapitel 6 - Meetings](./Kapitel6-Meetings.md)
