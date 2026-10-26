@@ -115,4 +115,4 @@ Jeremy konnte sich eine Nachfrage nicht verkneifen. „Was ist das, bitte?“
 
 Ein Schauer lief Jeremy über den Rücken und er machte sich schleunigst auf den Weg zurück zu seinem Schreibtisch.
 
-**Fortsetzung Folgt!**
+[Kapitel 7 - Standup](./Kapitel7-Standup.md)
